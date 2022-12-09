@@ -10,7 +10,7 @@ splits the columns of the file and writes to different database tables
     source venv/bin/activate
     pip install -r requirements.txt
     python manage.py migrate
-    python manage.py runserver
+    python main.py
 
 # How to use
 
